@@ -18,12 +18,12 @@ Python 3.x
 Libraries: pandas, docx, PyPDF2, win32com.client
 
 **Installation**
-1.Clone the repository:
+1. Clone the repository:
 
-git clone https://github.com/yourusername/resume-parser.git
+git clone [https://github.com/yourusername/resume-parser.git](https://github.com/KritPrasad05/Resume_Praser_Python.git)
 cd resume-parser
 
-2.Install the required Python libraries:
+2. Install the required Python libraries:
 
 pip install pandas python-docx PyPDF2 pywin32
 
@@ -62,4 +62,4 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 
 **Contact**
 
-For any questions or feedback, please reach out to :- kritrp05@gmail.com
+For any questions or feedback, please reach out to:- kritrp05@gmail.com
